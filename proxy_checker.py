@@ -115,7 +115,6 @@ class proxy_checker():
             "https://raw.githubusercontent.com/HyperBeats/proxy-list/main/socks4.txt",
             "https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks4.txt",
             "https://www.proxy-list.download/api/v1/get?type=socks4",
-            "https://www.proxyscan.io/download?type=socks4",
             "https://api.openproxylist.xyz/socks4.txt",
             'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks5&timeout=100000&country=all&ssl=all&anonymity=all',
             'https://raw.githubusercontent.com/HyperBeats/proxy-list/main/socks4.txt'
